@@ -1,60 +1,101 @@
 <div align="center">
-  <img src="assets/profile-header.svg" width="100%" alt="Mohammed Tayeb" />
+  <img src="assets/profile-header.svg" width="100%" alt="Mohammed Tayeb — Software Engineering" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/tayeb123tta">GitHub Profile</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  Istanbul Nişantaşı University
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  Software Engineering
+  <sub>SOFTWARE ENGINEERING STUDENT · ISTANBUL NIŞANTAŞI UNIVERSITY</sub>
+  <br/><br/>
+  <a href="https://github.com/tayeb123tta">GITHUB</a>
+  &nbsp; / &nbsp; <a href="https://github.com/tayeb123tta?tab=repositories">SELECTED REPOSITORIES</a>
 </div>
 
 <br/>
 
-## Hello, I'm Mohammed.
+# I build digital products.
 
-I'm a Software Engineering student interested in the craft of building useful, dependable software. I enjoy working across the stack, with a growing focus on backend systems, application security, and cloud infrastructure.
+I'm Mohammed Tayeb — a software engineering student interested in the systems behind useful digital experiences. I enjoy taking an idea from its first sketch to a working product, thinking through the interface, the data, and the engineering underneath.
 
-I learn by making things: shaping an idea, turning it into a working product, and refining the details that make it reliable.
+My current direction sits at the intersection of **backend engineering, application security, and cloud infrastructure**.
 
-## Areas of focus
+<br/>
 
-**Backend engineering**  
-APIs, server-side architecture, authentication, data modelling, and maintainable services.
+## SELECTED WORK
 
-**Application security**  
-Secure-by-design thinking, authorization, validation, and web security fundamentals.
+A few projects and product explorations I'm building and developing.
 
-**Cloud & infrastructure**  
-Linux, networking, deployment, and the foundations of reliable systems.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Selected projects
+### 01 — 3llemni
 
-**3llemni**  
-A multilingual electronics commerce platform with a configurable storefront and visual administration studio.  
-*React · TypeScript · Express · SQLite*
+**Commerce · Platform · Studio**
 
-**Commerce OS**  
-A desktop point-of-sale and inventory concept designed around real shop workflows and offline-first operation.  
-*Tauri · React · SQLite*
+A multilingual electronics commerce platform. The project combines a customer-facing storefront with a configurable visual administration studio.
 
-**Sahara Gold**  
-A multi-tenant restaurant ordering concept with QR menus and store management.  
-*React · Supabase*
+**REACT** · **TYPESCRIPT** · **EXPRESS** · **SQLITE**
 
-## Technologies
+</td>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,sqlite,supabase,git,github,linux,vscode" height="34" alt="Technologies" />
-</p>
+### 02 — COMMERCE OS
 
-## Learning now
+**Desktop · Retail · Operations**
 
-Backend architecture · Application security · Cloud infrastructure
+A point-of-sale and inventory product concept for independent shops, with offline-first workflows and a focus on speed and clarity.
+
+**TAURI** · **REACT** · **SQLITE**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 — SAHARA GOLD
+
+**Hospitality · QR · SaaS**
+
+A multi-tenant restaurant experience exploring QR menus, online ordering, and business-side management.
+
+**REACT** · **SUPABASE**
+
+</td>
+<td width="50%" valign="top">
+
+### 04 — THE ENGINEERING
+
+**What I'm focusing on**
+
+Building a stronger foundation in backend architecture, secure application design, networking, Linux, and cloud fundamentals.
+
+**BACKEND** · **SECURITY** · **INFRASTRUCTURE**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## THE TOOLKIT
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,sqlite,supabase,git,github,linux,vscode" alt="Java, JavaScript, TypeScript, React, Node.js, Express, SQLite, Supabase, Git, GitHub, Linux and VS Code"/>
+</div>
+
+<br/>
+
+## CURRENTLY EXPLORING
+
+| FIELD | INTEREST |
+|:--|:--|
+| Backend engineering | API design, architecture, data modelling |
+| Application security | Secure coding, authentication, authorization |
+| Cloud & infrastructure | Linux, networking, deployment fundamentals |
 
 <br/>
 
 <div align="center">
-  <sub>Curiosity, consistency, and the work behind the interface.</sub>
+  <sub>BASED IN ISTANBUL · LEARNING THROUGH BUILDING</sub>
+  <br/><br/>
+  <a href="https://github.com/tayeb123tta">MOHAMMED TAYEB ↗</a>
 </div>
