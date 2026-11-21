@@ -1,0 +1,21 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#0A1020"/><stop offset="1" stop-color="#101D32"/></linearGradient>
+  <linearGradient id="line" x1="760" y1="0" x2="1180" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#54D6C8" stop-opacity=".7"/><stop offset="1" stop-color="#6A8DFF" stop-opacity=".12"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#9BB5D4" stroke-opacity=".08" stroke-width="1"/></pattern>
+  <filter id="glow" x="650" y="-100" width="700" height="520" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="24"/></filter>
+</defs>
+<rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+<circle cx="1000" cy="150" r="130" fill="#4FD1C5" fill-opacity=".12" filter="url(#glow)"/>
+<path d="M760 320C830 225 850 95 1005 18C1082 -20 1152 -18 1220 10" stroke="url(#line)" stroke-width="1.5"/>
+<path d="M835 340C902 235 932 135 1060 76C1120 48 1170 46 1220 58" stroke="url(#line)" stroke-opacity=".6"/>
+<circle cx="1005" cy="18" r="4" fill="#69E0D1"/>
+<circle cx="835" cy="240" r="3" fill="#7C9EFF"/>
+<path d="M870 110H1120M870 122H1045M870 134H1090" stroke="#A7BDD7" stroke-opacity=".12"/>
+<rect x="72" y="66" width="34" height="3" rx="1.5" fill="#62D7CA"/>
+<text x="72" y="142" fill="#F2F6FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="650" letter-spacing="-1.8">MOHAMMED TAYEB</text>
+<text x="75" y="183" fill="#AFC2D8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" letter-spacing="2.2">SOFTWARE ENGINEERING</text>
+<text x="75" y="230" fill="#75DCCE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="1.2">BACKEND  /  APPLICATION SECURITY  /  CLOUD</text>
+<text x="1125" y="278" text-anchor="end" fill="#8EA5C0" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" letter-spacing="1.5">ISTANBUL · 2026</text>
+</svg>
