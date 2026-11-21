@@ -2,104 +2,92 @@
   <img src="assets/profile-header.svg" width="100%" alt="Mohammed Tayeb — Software Engineering" />
   <br/>
   <p>
-    <a href="https://github.com/tayeb123tta"><img src="https://img.shields.io/badge/PROFILE-EXPLORE-10243A?style=flat-square&logo=github&logoColor=66E5D8" /></a>
-    <img src="https://img.shields.io/badge/ISTANBUL-NIŞANTAŞI%20UNIVERSITY-10243A?style=flat-square&labelColor=10243A&color=1B6470" />
-    <img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2F%20SECURITY%20%2F%20CLOUD-10243A?style=flat-square&labelColor=10243A&color=1B6470" />
+    <img src="https://img.shields.io/badge/BASED_IN-Istanbul-10243A?style=flat-square&labelColor=10243A&color=1C6470" />
+    <img src="https://img.shields.io/badge/STUDY-Software%20Engineering-10243A?style=flat-square&labelColor=10243A&color=1C6470" />
+    <img src="https://img.shields.io/badge/INTEREST-Backend%20%7C%20Security%20%7C%20Cloud-10243A?style=flat-square&labelColor=10243A&color=1C6470" />
   </p>
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <h2>Engineering ideas into useful products.</h2>
-  <p>
-    I'm <strong>Mohammed Tayeb</strong>, a Software Engineering student at Istanbul Nişantaşı University.<br/>
-    I enjoy building practical digital products and exploring the systems that power them.<br/>
-    My current interests are backend engineering, application security, and cloud infrastructure.
-  </p>
-</div>
+## 01 / A LITTLE ABOUT ME
 
-<br/>
+I'm **Mohammed Tayeb**, a Software Engineering student at **Istanbul Nişantaşı University**.
 
-## SELECTED PROJECTS
+I like understanding how things work beneath the interface — from backend logic and data flow to the security and infrastructure behind a reliable product.
 
-<p align="left">
-  <sub>01 — PRODUCT ENGINEERING / COMMERCE</sub>
-</p>
+Currently focused on:
+- ⚙️ **Backend engineering** — APIs, application structure, databases
+- 🛡️ **Application security** — secure development and practical web security
+- ☁️ **Cloud & infrastructure** — Linux, networking, deployment fundamentals
 
-<img src="assets/3llemni-cover.svg" width="100%" alt="3llemni — digital commerce platform artwork"/>
+I learn by building, testing, breaking things, and improving them.
+
+## 02 / SELECTED WORK
+
+<p><sub>01 — COMMERCE PLATFORM</sub></p>
+<img src="assets/3llemni-cover.svg" width="100%" alt="3llemni project artwork"/>
 
 ### 3llemni
-A multilingual electronics commerce platform combining a customer storefront with a configurable visual administration studio.
+A multilingual electronics commerce platform with a customer storefront and a configurable visual administration studio.
 
 **React** · **TypeScript** · **Express** · **SQLite**
 
-<br/>
-
-<p align="left">
-  <sub>02 — DESKTOP SOFTWARE / RETAIL OPERATIONS</sub>
-</p>
-
-<img src="assets/commerce-os-cover.svg" width="100%" alt="Commerce OS — retail operations desktop artwork"/>
+<p><sub>02 — DESKTOP / RETAIL OPERATIONS</sub></p>
+<img src="assets/commerce-os-cover.svg" width="100%" alt="Commerce OS project artwork"/>
 
 ### Commerce OS
-A desktop point-of-sale and inventory concept designed around real shop workflows, speed, and offline-first operation.
+A point-of-sale and inventory desktop concept focused on practical retail workflows, responsive performance, and offline-first operation.
 
 **Tauri** · **React** · **SQLite**
 
-<br/>
-
-<p align="left">
-  <sub>03 — HOSPITALITY / MULTI-TENANT SAAS</sub>
-</p>
-
-<img src="assets/sahara-gold-cover.svg" width="100%" alt="Sahara Gold — hospitality platform artwork"/>
+<p><sub>03 — HOSPITALITY / SAAS</sub></p>
+<img src="assets/sahara-gold-cover.svg" width="100%" alt="Sahara Gold project artwork"/>
 
 ### Sahara Gold
-A multi-tenant restaurant platform exploring QR menus, online ordering, and business-side management.
+A multi-tenant restaurant platform exploring QR menus, digital ordering, and business management.
 
 **React** · **Supabase**
 
-<br/>
+## 03 / CURRENT TOOLKIT
 
-## WHAT I'M EXPLORING
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,sqlite,supabase,git,github,linux,vscode" alt="Technologies and tools"/>
+</div>
+
+## 04 / WHAT I'M WORKING TOWARDS
 
 <table>
-<tr>
-<td width="33%" valign="top">
-<h3>01 / Backend</h3>
-API design, server-side architecture, authentication, databases, and maintainable services.
-</td>
-<td width="33%" valign="top">
-<h3>02 / Security</h3>
-Secure coding, authorization, input validation, and web application security fundamentals.
-</td>
-<td width="33%" valign="top">
-<h3>03 / Cloud</h3>
-Linux, networking, deployment, and the foundations of reliable infrastructure.
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>⚙ Backend</h3>
+      <sub>DESIGN · BUILD · MAINTAIN</sub>
+      <p>Well-structured APIs, authentication, database design, and dependable server-side systems.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛡 Security</h3>
+      <sub>UNDERSTAND · TEST · IMPROVE</sub>
+      <p>Secure coding, access control, validation, and application security fundamentals.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>☁ Infrastructure</h3>
+      <sub>CONNECT · DEPLOY · SCALE</sub>
+      <p>Linux, networking, deployment workflows, and cloud infrastructure foundations.</p>
+    </td>
+  </tr>
 </table>
 
-## THE TOOLKIT
+## 05 / GITHUB IN NUMBERS
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,sqlite,supabase,git,github,linux,vscode" alt="Technologies"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tayeb123tta&show_icons=true&hide_border=true&bg_color=0B1525&title_color=64E2D5&icon_color=64E2D5&text_color=DCE7F5&rank_icon=github" alt="GitHub statistics"/>
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayeb123tta&layout=compact&hide_border=true&bg_color=0B1525&title_color=64E2D5&text_color=DCE7F5" alt="Most used languages"/>
 </div>
 
-<br/>
-
-## GITHUB ACTIVITY
-
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tayeb123tta&show_icons=true&hide_border=true&bg_color=0B1525&title_color=64E2D5&icon_color=64E2D5&text_color=DCE7F5&rank_icon=github" alt="GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayeb123tta&layout=compact&hide_border=true&bg_color=0B1525&title_color=64E2D5&text_color=DCE7F5" alt="Most used languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>ISTANBUL, TURKIYE · LEARNING THROUGH BUILDING</sub>
+  <br/>
+  <sub>STUDENT BY TITLE. BUILDER BY HABIT.</sub>
   <br/><br/>
-  <a href="https://github.com/tayeb123tta?tab=repositories">EXPLORE MY REPOSITORIES ↗</a>
+  <a href="https://github.com/tayeb123tta?tab=repositories">EXPLORE REPOSITORIES ↗</a>
 </div>
