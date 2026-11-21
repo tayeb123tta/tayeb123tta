@@ -1,55 +1,71 @@
-# Mohammed Tayeb
+<!-- Profile README · Mohammed Tayeb -->
 
-**Software Engineering Student · Istanbul Nişantaşı University**
+<div align="center">
+  <img src="assets/profile-header.svg" width="100%" alt="Mohammed Tayeb — Software Engineering" />
+</div>
 
-Interested in backend development, application security, and the systems that make software reliable.
+<div align="center">
+  <a href="https://github.com/tayeb123tta">GitHub</a>
+  &nbsp;·&nbsp; <strong>Istanbul Nişantaşı University</strong>
+  &nbsp;·&nbsp; <strong>Software Engineering</strong>
+</div>
 
-[GitHub](https://github.com/tayeb123tta)
+<br/>
 
----
+## A little about me
 
-## About
+I'm Mohammed, a Software Engineering student at Istanbul Nişantaşı University. I like building software that solves practical problems and understanding what happens behind the interface — from API design and data models to deployment and security.
 
-I'm studying Software Engineering at Istanbul Nişantaşı University. I enjoy understanding how software works beyond the interface — designing APIs, working with data, connecting services, and thinking about security and maintainability.
+I'm currently shaping my path around backend engineering, application security, and cloud infrastructure. Most of my learning happens through building, breaking, debugging, and improving real projects.
 
-My current direction is backend engineering, with a growing focus on application and cloud security. I learn best by building projects, testing ideas, and improving them through practical work.
+## What I'm working towards
 
-## Areas of interest
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>01 / Backend</strong><br/><br/>
+      API design, server-side architecture, authentication, databases, and maintainable services.
+    </td>
+    <td width="33%" valign="top">
+      <strong>02 / Security</strong><br/><br/>
+      Secure application design, access control, input validation, and web security fundamentals.
+    </td>
+    <td width="33%" valign="top">
+      <strong>03 / Infrastructure</strong><br/><br/>
+      Linux, networking, deployment, cloud concepts, and reliable development workflows.
+    </td>
+  </tr>
+</table>
 
-- **Backend development** — API design, authentication, databases, and application architecture.
-- **Application security** — secure coding, authorization, validation, and common web vulnerabilities.
-- **Cloud and infrastructure** — Linux, deployment, networking, and container-based workflows.
-
-## Selected projects
+## Selected work
 
 ### 3llemni
+A multilingual electronics commerce platform with a configurable storefront and a visual administration studio.
 
-A multilingual electronics commerce platform with a configurable storefront and an administration studio.
-
-`React` `TypeScript` `Express` `SQLite`
+<sub>React · TypeScript · Express · SQLite</sub>
 
 ### Commerce OS
+A desktop point-of-sale and inventory concept designed around practical shop workflows and offline-first operation.
 
-A cross-platform point-of-sale and inventory application concept, with an emphasis on offline-first use in small businesses.
-
-`Tauri` `React` `SQLite`
+<sub>Tauri · React · SQLite</sub>
 
 ### Sahara Gold
+A multi-tenant restaurant ordering concept with QR menus and store management.
 
-A restaurant platform concept for managing QR menus and online orders across multiple locations.
+<sub>React · Supabase</sub>
 
-`React` `Supabase`
-
-## Technologies
+## Tools I use
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,sqlite,supabase,git,github,linux,vscode" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,sqlite,supabase,git,github,linux,vscode" alt="Java, JavaScript, TypeScript, React, Node.js, Express, SQLite, Supabase, Git, GitHub, Linux and VS Code" />
 </p>
 
-## Currently learning
+## Currently exploring
 
-Backend architecture, application security fundamentals, and cloud infrastructure.
+Backend architecture · Application security · Cloud infrastructure
 
----
+<br/>
 
-<p align="center"><sub>Thanks for stopping by.</sub></p>
+<div align="center">
+  <sub>Learning by building. Improving one project at a time.</sub>
+</div>
